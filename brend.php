@@ -21,7 +21,7 @@
       <ul>
         <li><a href="#">Главная</a> <i class="icon-arrow-right-black"></i></li>
         <li><a href="#">Магазины</a> <i class="icon-arrow-right-black"></i></li>
-        <li class="last">Zara <i class="icon-arrow-right-black"></i></li>
+        <li class="last">Zara 2 <i class="icon-arrow-right-black"></i></li>
       </ul>
     </div>
   </div>
